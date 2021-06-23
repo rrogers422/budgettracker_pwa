@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/rrogers422/budgettracker_pwa/issues"
   },
-  "homepage": "https://github.com/rrogers422/budgettracker_pwa#readme"
+  "homepage": "https://github.com/rrogers422/budgettracker_pwa#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.12.14",
+    "morgan": "^1.10.0"
+  }
 }
